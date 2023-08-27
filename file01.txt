@@ -1,2 +1,2 @@
-update count=mas
+update count=2
 
